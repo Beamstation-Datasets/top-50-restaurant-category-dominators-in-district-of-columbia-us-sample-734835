@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in District of Columbia, US",
+  "export_job_id": "f5fdcab9-7d98-4661-8ce4-d93b57c894ff",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 734835,
+  "location_name": "District of Columbia",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-district-of-columbia-us-sample-734835",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/734835/beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 3,
+  "sample_sha256": "1bbb97f52f4b9836ca886f9aee9ab191e8cd5b07e64b56cb3d9903aa2f00db6a",
+  "sample_size_bytes": 29410,
+  "total_records": 30,
+  "updated_at": "2026-04-01T00:13:54.587218+00:00"
+}
