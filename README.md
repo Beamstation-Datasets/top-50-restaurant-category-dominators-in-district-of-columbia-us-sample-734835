@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in District of Columbia, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `734835` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 3 records (10.0%) |
-| Last export | 2026-04-01T00:13:54.587218+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-15T01:56:32.356615+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-district-of-columbia-us-sample-734835/releases/download/sample-latest/beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
