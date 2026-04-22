@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ffa95de5-8f69-4da5-8230-c87895d167df",
+  "export_job_id": "fcdef26e-e0c6-47a4-b8e3-b8de43725ee9",
   "id_short": 734835,
-  "published_at": "2026-04-18T19:47:53Z",
+  "published_at": "2026-04-22T07:56:38Z",
   "repo_name": "top-50-restaurant-category-dominators-in-district-of-columbia-us-sample-734835",
   "sample_asset_name": "beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/734835/beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_records": 4,
-  "sample_sha256": "d8565bfd9a2890f85423588087602429ce80d64a5d09accedf8c03e8d33a289a",
-  "sample_size_bytes": 33307,
-  "total_records": 48
+  "sample_sha256": "bc2eb201ee2f8ea17c52a4090657e9e44033959be933dfca3bd70ba45261b31e",
+  "sample_size_bytes": 33355,
+  "total_records": 47
 }
