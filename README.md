@@ -9,9 +9,9 @@
 | Dataset ID | `734835` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-22T06:44:52.763475+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-29T08:42:32.374065+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-district-of-columbia-us-sample-734835/releases/download/sample-latest/beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
