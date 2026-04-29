@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in District of Columbia, US",
-  "export_job_id": "fcdef26e-e0c6-47a4-b8e3-b8de43725ee9",
+  "export_job_id": "96981305-4f70-4388-afa9-04fb8392218c",
   "github_org": "Beamstation-Datasets",
   "id_short": 734835,
   "location_name": "District of Columbia",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-district-of-columbia-us-sample-734835",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/734835/beamstation_734835_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_pct": 8.51,
+  "sample_pct": 10.0,
   "sample_records": 4,
-  "sample_sha256": "bc2eb201ee2f8ea17c52a4090657e9e44033959be933dfca3bd70ba45261b31e",
-  "sample_size_bytes": 33355,
-  "total_records": 47,
-  "updated_at": "2026-04-22T06:44:52.763475+00:00"
+  "sample_sha256": "b140d52090697e67f45645ddf43970dd20db1ed70f26e7a68a772518f5749b35",
+  "sample_size_bytes": 31821,
+  "total_records": 40,
+  "updated_at": "2026-04-29T08:42:32.374065+00:00"
 }
